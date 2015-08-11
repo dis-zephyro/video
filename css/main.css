@@ -365,6 +365,7 @@ html {
   transition: 0.8s;
   opacity: 0;
   filter: alpha(opacity=0);
+  background: rgba(0, 0, 0, 0.4);
 }
 .block04 .service li div span {
   width: 100%;
