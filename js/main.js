@@ -1,8 +1,10 @@
 $(".btn-reply").click(function(){
     $(".reply-hide").show();
+    $(".btn-reply").hide();
 });
 
-$(".reply-image a").fancybox({
+
+$(".reply-image a, .reply-gallery a").fancybox({
     "padding" : 0
 });
 
