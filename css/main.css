@@ -184,14 +184,15 @@ html {
   text-align: center;
   margin-bottom: 15px;
 }
-.block02 .aftermath {
-  height: 630px;
+.block02 .aftermath .aftermath-inner {
+  height: 590px;
   overflow: hidden;
 }
 .block02 .aftermath .aftermath-source {
   padding: 0 100px 0 15px;
   position: relative;
   margin-bottom: 25px;
+  overflow: hidden;
 }
 .block02 .aftermath .aftermath-source:before {
   bottom: 0;
